@@ -1,4 +1,6 @@
 # Sizzle
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fsizzle.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fsizzle?ref=badge_shield)
+
 
 __A pure-JavaScript CSS selector engine designed to be easily dropped in to a host library.__
 
@@ -53,3 +55,7 @@ Developing with [grunt](http://gruntjs.com)
 - `npm run build` or `grunt` will lint, build, test, and compare the sizes of the built files.
 - `npm start` or `grunt start` can be run to re-lint, re-build, and re-test files as you change them.
 - `grunt -help` will show other available commands.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fsizzle.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fsizzle?ref=badge_large)
